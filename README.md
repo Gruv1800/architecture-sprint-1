@@ -105,3 +105,9 @@
     │   └── utils
     └── webpack.config.js
 ```
+
+# Задание 2
+
+Ссылка на схему draw.io -- https://disk.yandex.ru/d/MQP-HCssU8b7yg
+
+Так же схему можно найти в корне репозитория -- https://github.com/Gruv1800/architecture-sprint-1/blob/sprint_1/sprint_1_task_2.drawio
